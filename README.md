@@ -1,7 +1,7 @@
 # polly_movie
 Amazon Polly will use different voices to act out movie scripts you provide
 
-Found a simple movie script parser on this post:
+Found a simple movie script parser on this post (thanks to neckro23):
 http://ask.metafilter.com/274007/Parsing-movie-TV-scripts
 
 Connected it to Julien Simon's PollyApi module:
