@@ -11,7 +11,7 @@ Added a simple Dictionary to set voices, and added Polly capabilities.
 
 This is nothing fancy but i thought it would be funny to listen to.
 
-python parse_movie.pl < startrek.txt
+python parse_movie.py < startrek.txt
 
 #TODO 
 - Set a list of voices and auto assign the Polly voices to actors
